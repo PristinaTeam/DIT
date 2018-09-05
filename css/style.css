@@ -437,8 +437,6 @@ textarea.form-control {
 .bg-light-2 {
   background: #fafafa;
   border-top: 1px solid #e0e0e0;
-  border-left: 20%;
-  border-right: 20%;
 }
 
 .btn-play .icon {
@@ -1057,3 +1055,9 @@ textarea.form-control {
   -webkit-box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.2);
 }
+<style>
+p3{
+  width:150px;
+  height:400px;
+}
+</style>
